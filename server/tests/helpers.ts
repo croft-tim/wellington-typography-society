@@ -23,6 +23,16 @@ export async function teardownTestDb() {
   await db.destroy()
 }
 
+// Insert a single test user and return their id — useful for auth tests
+export async function createTestUser(
+  username = 'testuser',
+  email = 'test@example.com',
+  passwordHash = '$2b$12$testhashtesthashtesthaLzGwKX2JQ9P8P1zGXTdkiQQ.rKyFFC2',
+) {
+  const [id] = await db('users').insert({ username, email, password_hash: passwordHash })
+  return id as number
+}
+
 async function insertTestData() {
   await db('locations').insert([
     { id: 1, slug: 'dixon-taranaki',   name: 'Dixon & Taranaki',   description: 'Test node', grid_x: 0, grid_y: 0 },
