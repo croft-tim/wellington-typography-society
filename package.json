@@ -9,7 +9,9 @@
     "routing"
   ],
   "scripts": {
-    "test": "vitest",
+    "test": "run-s test:client test:server",
+    "test:client": "vitest run",
+    "test:server": "vitest run --config vitest.server.config.ts",
     "start": "node dist/server.js",
     "dev": "run-p dev:client dev:server",
     "dev:client": "vite",
