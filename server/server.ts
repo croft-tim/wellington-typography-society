@@ -5,6 +5,7 @@ import session from 'express-session'
 import fruitRoutes from './routes/fruits.ts'
 import authRoutes from './routes/auth.ts'
 import scanRoutes from './routes/scan.ts'
+import locationRoutes from './routes/locations.ts'
 
 const server = express()
 
@@ -26,6 +27,7 @@ server.use(
 server.use('/api/v1/fruits', fruitRoutes)
 server.use('/api/auth', authRoutes)
 server.use('/api/scan', scanRoutes)
+server.use('/api/locations', locationRoutes)
 
 if (process.env.NODE_ENV === 'production') {
   server.use(express.static(Path.resolve('public')))
