@@ -1,6 +1,7 @@
 import { useParams, Link } from 'react-router'
 import { useLocation } from '../hooks/useLocation.ts'
 import { Exit } from '../apis/locations.ts'
+import RiddleForm from './RiddleForm.tsx'
 
 const DIRECTION_LABELS: Record<string, string> = {
   north: 'N',
@@ -9,18 +10,15 @@ const DIRECTION_LABELS: Record<string, string> = {
   west:  'W',
 }
 
-function ExitButton({ exit }: { exit: Exit }) {
+function ExitButton({ exit, locationSlug }: { exit: Exit; locationSlug: string }) {
   const label = DIRECTION_LABELS[exit.direction] ?? exit.direction.toUpperCase()
 
-  // Locked — riddle not yet solved
+  // Locked — show riddle form
   if (exit.isLocked) {
     return (
       <div className="exit exit--locked">
         <span className="exit__direction">{label}</span>
-        <span className="exit__status">locked</span>
-        {exit.riddleQuestion && (
-          <p className="exit__riddle-question">{exit.riddleQuestion}</p>
-        )}
+        <RiddleForm exit={exit} locationSlug={locationSlug} />
       </div>
     )
   }
@@ -65,7 +63,7 @@ function LocationPage() {
       <p className="location__description">{location.description}</p>
       <div className="location__exits">
         {location.exits.map((exit) => (
-          <ExitButton key={exit.id} exit={exit} />
+          <ExitButton key={exit.id} exit={exit} locationSlug={location.slug} />
         ))}
       </div>
     </div>
