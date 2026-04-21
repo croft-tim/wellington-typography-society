@@ -1,0 +1,184 @@
+<svg width="100%" viewBox="0 0 680 830" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Wellington Typography Society Seal</title>
+<defs>
+<pattern id="lh" x="0" y="0" width="7" height="7" patternUnits="userSpaceOnUse">
+<line x1="0" y1="7" x2="7" y2="0" stroke="#1b3419" stroke-width="0.65" opacity="0.28"/>
+</pattern>
+<path id="ta" d="M 148,400 A 195,195 0 0,1 532,400" fill="none"/>
+<path id="ba" d="M 175,590 Q 340,655 505,590" fill="none"/>
+<clipPath id="cb"><polygon points="285,380 395,380 528,556 152,556"/></clipPath>
+<clipPath id="cc"><polygon points="340,308 295,370 385,370"/></clipPath>
+</defs>
+
+<rect width="680" height="830" fill="#d4cc98"/>
+<rect x="11" y="11" width="658" height="808" fill="none" stroke="#1b3419" stroke-width="3.5"/>
+<rect x="18" y="18" width="644" height="794" fill="none" stroke="#1b3419" stroke-width="1"/>
+<rect x="23" y="23" width="634" height="784" fill="none" stroke="#1b3419" stroke-width="0.4"/>
+
+<g fill="#1b3419">
+<rect x="29" y="29" width="28" height="2.5"/><rect x="29" y="29" width="2.5" height="28"/><circle cx="35" cy="35" r="3.5"/>
+<rect x="623" y="29" width="28" height="2.5"/><rect x="648.5" y="29" width="2.5" height="28"/><circle cx="645" cy="35" r="3.5"/>
+<rect x="29" y="798.5" width="28" height="2.5"/><rect x="29" y="772" width="2.5" height="28"/><circle cx="35" cy="795" r="3.5"/>
+<rect x="623" y="798.5" width="28" height="2.5"/><rect x="648.5" y="772" width="2.5" height="28"/><circle cx="645" cy="795" r="3.5"/>
+</g>
+
+<text x="340" y="54" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="14" letter-spacing="5" fill="#1b3419" font-weight="700">WELLINGTON TYPOGRAPHY SOCIETY</text>
+<line x1="38" y1="64" x2="642" y2="64" stroke="#1b3419" stroke-width="2"/>
+<line x1="38" y1="68" x2="642" y2="68" stroke="#1b3419" stroke-width="0.6"/>
+<text x="340" y="84" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="9" letter-spacing="4" fill="#1b3419">EST. MCMXXVI  ·  DOMINION OF NEW ZEALAND</text>
+<line x1="38" y1="93" x2="642" y2="93" stroke="#1b3419" stroke-width="0.6"/>
+<line x1="38" y1="97" x2="642" y2="97" stroke="#1b3419" stroke-width="2"/>
+
+<line x1="38" y1="718" x2="642" y2="718" stroke="#1b3419" stroke-width="2"/>
+<line x1="38" y1="722" x2="642" y2="722" stroke="#1b3419" stroke-width="0.6"/>
+<text x="340" y="742" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="9" letter-spacing="4" fill="#1b3419">VERITAS  ·  FORMA  ·  AETERNITAS</text>
+<line x1="38" y1="751" x2="642" y2="751" stroke="#1b3419" stroke-width="0.6"/>
+<line x1="38" y1="755" x2="642" y2="755" stroke="#1b3419" stroke-width="2"/>
+
+<ellipse cx="340" cy="408" rx="234" ry="264" fill="#c2ba88" stroke="#1b3419" stroke-width="1.8"/>
+<ellipse cx="340" cy="408" rx="227" ry="257" fill="none" stroke="#1b3419" stroke-width="0.5"/>
+
+<text font-family="Georgia,'Times New Roman',serif" font-size="13" letter-spacing="5" fill="#1b3419" font-weight="700"><textPath href="#ta" startOffset="50%" text-anchor="middle">PER LITTERAS AD LUCEM</textPath></text>
+<text font-family="Georgia,'Times New Roman',serif" font-size="11" letter-spacing="3.5" fill="#1b3419" font-weight="700"><textPath href="#ba" startOffset="50%" text-anchor="middle">ITER IN APICIBUS EST</textPath></text>
+
+<g fill="#1b3419">
+<path transform="translate(305,250)" d="M0,-6 L1.47,-2.02 L5.71,-1.85 L2.38,0.77 L3.53,4.85 L0,2.5 L-3.53,4.85 L-2.38,0.77 L-5.71,-1.85 L-1.47,-2.02Z"/>
+<path transform="translate(323,250)" d="M0,-6 L1.47,-2.02 L5.71,-1.85 L2.38,0.77 L3.53,4.85 L0,2.5 L-3.53,4.85 L-2.38,0.77 L-5.71,-1.85 L-1.47,-2.02Z"/>
+<path transform="translate(340,250)" d="M0,-6 L1.47,-2.02 L5.71,-1.85 L2.38,0.77 L3.53,4.85 L0,2.5 L-3.53,4.85 L-2.38,0.77 L-5.71,-1.85 L-1.47,-2.02Z"/>
+<path transform="translate(357,250)" d="M0,-6 L1.47,-2.02 L5.71,-1.85 L2.38,0.77 L3.53,4.85 L0,2.5 L-3.53,4.85 L-2.38,0.77 L-5.71,-1.85 L-1.47,-2.02Z"/>
+<path transform="translate(375,250)" d="M0,-6 L1.47,-2.02 L5.71,-1.85 L2.38,0.77 L3.53,4.85 L0,2.5 L-3.53,4.85 L-2.38,0.77 L-5.71,-1.85 L-1.47,-2.02Z"/>
+</g>
+
+<g stroke="#1b3419" fill="none" stroke-linecap="round">
+<line x1="340" y1="339" x2="340" y2="163" stroke-width="1.3" opacity="0.6"/>
+<line x1="340" y1="339" x2="407" y2="176" stroke-width="0.7" opacity="0.42"/>
+<line x1="340" y1="339" x2="464" y2="215" stroke-width="1.3" opacity="0.6"/>
+<line x1="340" y1="339" x2="503" y2="272" stroke-width="0.7" opacity="0.42"/>
+<line x1="340" y1="339" x2="516" y2="339" stroke-width="1.3" opacity="0.6"/>
+<line x1="340" y1="339" x2="503" y2="406" stroke-width="0.7" opacity="0.42"/>
+<line x1="340" y1="339" x2="464" y2="463" stroke-width="1.3" opacity="0.6"/>
+<line x1="340" y1="339" x2="407" y2="502" stroke-width="0.7" opacity="0.42"/>
+<line x1="340" y1="339" x2="340" y2="515" stroke-width="1.3" opacity="0.6"/>
+<line x1="340" y1="339" x2="273" y2="502" stroke-width="0.7" opacity="0.42"/>
+<line x1="340" y1="339" x2="216" y2="463" stroke-width="1.3" opacity="0.6"/>
+<line x1="340" y1="339" x2="177" y2="406" stroke-width="0.7" opacity="0.42"/>
+<line x1="340" y1="339" x2="164" y2="339" stroke-width="1.3" opacity="0.6"/>
+<line x1="340" y1="339" x2="177" y2="272" stroke-width="0.7" opacity="0.42"/>
+<line x1="340" y1="339" x2="216" y2="215" stroke-width="1.3" opacity="0.6"/>
+<line x1="340" y1="339" x2="273" y2="176" stroke-width="0.7" opacity="0.42"/>
+</g>
+
+<polygon points="285,380 395,380 528,556 152,556" fill="#b0a860" stroke="#1b3419" stroke-width="1.8"/>
+<polygon points="285,380 395,380 528,556 152,556" fill="url(#lh)"/>
+<g clip-path="url(#cb)" stroke="#1b3419" stroke-width="0.5" opacity="0.28">
+<line x1="100" y1="392" x2="580" y2="392"/><line x1="100" y1="400" x2="580" y2="400"/>
+<line x1="100" y1="408" x2="580" y2="408"/><line x1="100" y1="416" x2="580" y2="416"/>
+<line x1="100" y1="424" x2="580" y2="424"/><line x1="100" y1="432" x2="580" y2="432"/>
+<line x1="100" y1="440" x2="580" y2="440"/><line x1="100" y1="448" x2="580" y2="448"/>
+<line x1="100" y1="456" x2="580" y2="456"/><line x1="100" y1="464" x2="580" y2="464"/>
+<line x1="100" y1="472" x2="580" y2="472"/><line x1="100" y1="480" x2="580" y2="480"/>
+<line x1="100" y1="488" x2="580" y2="488"/><line x1="100" y1="496" x2="580" y2="496"/>
+<line x1="100" y1="504" x2="580" y2="504"/><line x1="100" y1="512" x2="580" y2="512"/>
+<line x1="100" y1="520" x2="580" y2="520"/><line x1="100" y1="528" x2="580" y2="528"/>
+<line x1="100" y1="536" x2="580" y2="536"/><line x1="100" y1="544" x2="580" y2="544"/>
+<line x1="100" y1="552" x2="580" y2="552"/>
+</g>
+
+<g clip-path="url(#cb)">
+<rect x="277" y="397" width="126" height="126" fill="#d0c880"/>
+<rect x="277" y="397" width="42" height="42" fill="#1b3419"/>
+<rect x="283" y="403" width="30" height="30" fill="#d0c880"/>
+<rect x="289" y="409" width="18" height="18" fill="#1b3419"/>
+<rect x="361" y="397" width="42" height="42" fill="#1b3419"/>
+<rect x="367" y="403" width="30" height="30" fill="#d0c880"/>
+<rect x="373" y="409" width="18" height="18" fill="#1b3419"/>
+<rect x="277" y="481" width="42" height="42" fill="#1b3419"/>
+<rect x="283" y="487" width="30" height="30" fill="#d0c880"/>
+<rect x="289" y="493" width="18" height="18" fill="#1b3419"/>
+<rect x="325" y="433" width="6" height="6" fill="#1b3419"/><rect x="337" y="433" width="6" height="6" fill="#1b3419"/><rect x="349" y="433" width="6" height="6" fill="#1b3419"/>
+<rect x="313" y="445" width="6" height="6" fill="#1b3419"/><rect x="313" y="457" width="6" height="6" fill="#1b3419"/><rect x="313" y="469" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="397" width="6" height="6" fill="#1b3419"/><rect x="337" y="397" width="6" height="6" fill="#1b3419"/><rect x="349" y="397" width="6" height="6" fill="#1b3419"/>
+<rect x="331" y="403" width="6" height="6" fill="#1b3419"/><rect x="349" y="403" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="409" width="6" height="6" fill="#1b3419"/><rect x="343" y="409" width="6" height="6" fill="#1b3419"/><rect x="355" y="409" width="6" height="6" fill="#1b3419"/>
+<rect x="331" y="415" width="6" height="6" fill="#1b3419"/><rect x="349" y="415" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="421" width="6" height="6" fill="#1b3419"/><rect x="355" y="421" width="6" height="6" fill="#1b3419"/>
+<rect x="337" y="427" width="6" height="6" fill="#1b3419"/><rect x="349" y="427" width="6" height="6" fill="#1b3419"/>
+<rect x="319" y="439" width="6" height="6" fill="#1b3419"/><rect x="331" y="439" width="6" height="6" fill="#1b3419"/><rect x="349" y="439" width="6" height="6" fill="#1b3419"/><rect x="361" y="439" width="6" height="6" fill="#1b3419"/><rect x="379" y="439" width="6" height="6" fill="#1b3419"/><rect x="391" y="439" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="445" width="6" height="6" fill="#1b3419"/><rect x="343" y="445" width="6" height="6" fill="#1b3419"/><rect x="355" y="445" width="6" height="6" fill="#1b3419"/><rect x="373" y="445" width="6" height="6" fill="#1b3419"/><rect x="391" y="445" width="6" height="6" fill="#1b3419"/>
+<rect x="319" y="451" width="6" height="6" fill="#1b3419"/><rect x="337" y="451" width="6" height="6" fill="#1b3419"/><rect x="349" y="451" width="6" height="6" fill="#1b3419"/><rect x="367" y="451" width="6" height="6" fill="#1b3419"/><rect x="385" y="451" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="457" width="6" height="6" fill="#1b3419"/><rect x="337" y="457" width="6" height="6" fill="#1b3419"/><rect x="355" y="457" width="6" height="6" fill="#1b3419"/><rect x="373" y="457" width="6" height="6" fill="#1b3419"/><rect x="385" y="457" width="6" height="6" fill="#1b3419"/>
+<rect x="319" y="463" width="6" height="6" fill="#1b3419"/><rect x="343" y="463" width="6" height="6" fill="#1b3419"/><rect x="361" y="463" width="6" height="6" fill="#1b3419"/><rect x="379" y="463" width="6" height="6" fill="#1b3419"/><rect x="391" y="463" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="469" width="6" height="6" fill="#1b3419"/><rect x="337" y="469" width="6" height="6" fill="#1b3419"/><rect x="349" y="469" width="6" height="6" fill="#1b3419"/><rect x="367" y="469" width="6" height="6" fill="#1b3419"/><rect x="379" y="469" width="6" height="6" fill="#1b3419"/>
+<rect x="319" y="475" width="6" height="6" fill="#1b3419"/><rect x="337" y="475" width="6" height="6" fill="#1b3419"/><rect x="355" y="475" width="6" height="6" fill="#1b3419"/><rect x="373" y="475" width="6" height="6" fill="#1b3419"/><rect x="391" y="475" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="481" width="6" height="6" fill="#1b3419"/><rect x="343" y="481" width="6" height="6" fill="#1b3419"/><rect x="355" y="481" width="6" height="6" fill="#1b3419"/><rect x="373" y="481" width="6" height="6" fill="#1b3419"/><rect x="385" y="481" width="6" height="6" fill="#1b3419"/>
+<rect x="319" y="487" width="6" height="6" fill="#1b3419"/><rect x="337" y="487" width="6" height="6" fill="#1b3419"/><rect x="349" y="487" width="6" height="6" fill="#1b3419"/><rect x="367" y="487" width="6" height="6" fill="#1b3419"/><rect x="379" y="487" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="493" width="6" height="6" fill="#1b3419"/><rect x="343" y="493" width="6" height="6" fill="#1b3419"/><rect x="361" y="493" width="6" height="6" fill="#1b3419"/><rect x="379" y="493" width="6" height="6" fill="#1b3419"/><rect x="391" y="493" width="6" height="6" fill="#1b3419"/>
+<rect x="319" y="499" width="6" height="6" fill="#1b3419"/><rect x="331" y="499" width="6" height="6" fill="#1b3419"/><rect x="349" y="499" width="6" height="6" fill="#1b3419"/><rect x="367" y="499" width="6" height="6" fill="#1b3419"/><rect x="385" y="499" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="505" width="6" height="6" fill="#1b3419"/><rect x="343" y="505" width="6" height="6" fill="#1b3419"/><rect x="361" y="505" width="6" height="6" fill="#1b3419"/><rect x="379" y="505" width="6" height="6" fill="#1b3419"/><rect x="391" y="505" width="6" height="6" fill="#1b3419"/>
+<rect x="319" y="511" width="6" height="6" fill="#1b3419"/><rect x="337" y="511" width="6" height="6" fill="#1b3419"/><rect x="355" y="511" width="6" height="6" fill="#1b3419"/><rect x="373" y="511" width="6" height="6" fill="#1b3419"/><rect x="385" y="511" width="6" height="6" fill="#1b3419"/>
+<rect x="325" y="517" width="6" height="6" fill="#1b3419"/><rect x="337" y="517" width="6" height="6" fill="#1b3419"/><rect x="349" y="517" width="6" height="6" fill="#1b3419"/><rect x="367" y="517" width="6" height="6" fill="#1b3419"/><rect x="379" y="517" width="6" height="6" fill="#1b3419"/><rect x="391" y="517" width="6" height="6" fill="#1b3419"/>
+<rect x="277" y="397" width="126" height="126" fill="none" stroke="#1b3419" stroke-width="0.8"/>
+</g>
+
+<text x="340" y="548" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="11" letter-spacing="3" fill="#1b3419" font-weight="700">MDCCLXXVI</text>
+<line x1="152" y1="556" x2="528" y2="556" stroke="#1b3419" stroke-width="2.2"/>
+<line x1="152" y1="560" x2="528" y2="560" stroke="#1b3419" stroke-width="0.8"/>
+<line x1="152" y1="564" x2="528" y2="564" stroke="#1b3419" stroke-width="0.4"/>
+
+<!-- Capstone triangle -->
+<polygon points="340,308 295,370 385,370" fill="#a09848" stroke="#1b3419" stroke-width="1.8"/>
+<polygon points="340,308 295,370 385,370" fill="url(#lh)"/>
+<g clip-path="url(#cc)" stroke="#1b3419" stroke-width="0.5" opacity="0.32">
+<line x1="270" y1="320" x2="410" y2="320"/><line x1="270" y1="328" x2="410" y2="328"/>
+<line x1="270" y1="336" x2="410" y2="336"/><line x1="270" y1="344" x2="410" y2="344"/>
+<line x1="270" y1="352" x2="410" y2="352"/><line x1="270" y1="360" x2="410" y2="360"/>
+<line x1="270" y1="368" x2="410" y2="368"/>
+</g>
+<rect x="285" y="370" width="110" height="10" fill="#0c0a02" opacity="0.13"/>
+
+<!-- Eye -->
+<g clip-path="url(#cc)">
+<path d="M 310,339 Q 340,316 370,339 Q 340,362 310,339Z" fill="#d4cb98" stroke="#1b3419" stroke-width="1"/>
+<circle cx="340" cy="339" r="14" fill="#3a6820"/>
+<circle cx="340" cy="339" r="7" fill="#1b3419"/>
+<circle cx="340" cy="339" r="11" fill="none" stroke="#2a4818" stroke-width="1.5" opacity="0.5"/>
+<circle cx="344" cy="335" r="2.5" fill="#d0c88a" opacity="0.7"/>
+<path d="M 310,339 Q 340,316 370,339" fill="none" stroke="#1b3419" stroke-width="1.2"/>
+<path d="M 310,339 Q 340,362 370,339" fill="none" stroke="#1b3419" stroke-width="0.9"/>
+</g>
+
+<!--
+  Blinking eyelid animation (SMIL).
+  The upper eyelid is a filled shape whose lower control point sweeps from
+  y=317 (open — nearly zero area) to y=364 (closed — covers full eye) and back.
+  Two layers: solid capstone colour + matching hatch, so it blends seamlessly.
+  Timing: 5s cycle — closes ~0.2s, holds ~0.25s, opens ~0.2s, rests ~4.35s.
+-->
+<path clip-path="url(#cc)" fill="#a09848" stroke="none">
+  <animate attributeName="d"
+    values="M 310,339 Q 340,316 370,339 Q 340,317 310,339 Z;
+            M 310,339 Q 340,316 370,339 Q 340,364 310,339 Z;
+            M 310,339 Q 340,316 370,339 Q 340,364 310,339 Z;
+            M 310,339 Q 340,316 370,339 Q 340,317 310,339 Z;
+            M 310,339 Q 340,316 370,339 Q 340,317 310,339 Z"
+    keyTimes="0; 0.04; 0.09; 0.13; 1"
+    dur="5s"
+    repeatCount="indefinite"/>
+</path>
+<path clip-path="url(#cc)" fill="url(#lh)" stroke="none">
+  <animate attributeName="d"
+    values="M 310,339 Q 340,316 370,339 Q 340,317 310,339 Z;
+            M 310,339 Q 340,316 370,339 Q 340,364 310,339 Z;
+            M 310,339 Q 340,316 370,339 Q 340,364 310,339 Z;
+            M 310,339 Q 340,316 370,339 Q 340,317 310,339 Z;
+            M 310,339 Q 340,316 370,339 Q 340,317 310,339 Z"
+    keyTimes="0; 0.04; 0.09; 0.13; 1"
+    dur="5s"
+    repeatCount="indefinite"/>
+</path>
+<!-- Upper eyelid stroke redrawn on top -->
+<path clip-path="url(#cc)" d="M 310,339 Q 340,316 370,339" fill="none" stroke="#1b3419" stroke-width="1.2"/>
+
+<!-- Capstone outline on top of everything -->
+<polygon points="340,308 295,370 385,370" fill="none" stroke="#1b3419" stroke-width="1.8"/>
+</svg>
