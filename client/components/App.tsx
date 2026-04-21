@@ -1,15 +1,12 @@
-import { useFruits } from '../hooks/useFruits.ts'
-
 function App() {
-  const { data } = useFruits()
-
   return (
-    <>
-      <div className="app">
-        <h1>Fullstack Boilerplate - with Fruits!</h1>
-        <ul>{data && data.map((fruit) => <li key={fruit}>{fruit}</li>)}</ul>
-      </div>
-    </>
+    <div className="app">
+      <img
+        src="/wellington-typography-society-seal.svg"
+        alt="Wellington Typography Society seal"
+        style={{ maxWidth: '70vw', width: '100%', height: 'auto' }}
+      />
+    </div>
   )
 }
 
